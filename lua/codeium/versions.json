@@ -1,10 +1,10 @@
 {
-  "version": "1.6.6",
-  "stamp": "addae0134a9ac6c972c8d434b8f64095ac568b7c",
+  "version": "1.6.8",
+  "stamp": "20899426b54519ff91811e00902a7d873c70a115",
   "hashes": {
-    "x86_64-linux": "0ag4np9km2yjg591y0iyfdqpwjnazdlz5ah0sjvv40avdsfc58wi",
-    "aarch64-linux": "1z0ph2zivg2sj42qvcirgdh574kd3dpzi4syvnydsgfaxh12mh5s",
-    "x86_64-darwin": "0qg691z5wz3vhm1nh416cyg3j3gz25kkd9bfllg5101x0w3c91bq",
-    "aarch64-darwin": "1x5mjvr0br240g8m05qsfdr753rvm4h58j2kqi3rziw8fwy6hyr1"
+    "x86_64-linux": "09p34zsc7y5zs5npvh3aglhyn9fqkm1vfxkbdb8b9nai36mylrga",
+    "aarch64-linux": "11nb041j1lp2n3frj4skafzl8l7xhc8775iadw6rfmmg480v3sld",
+    "x86_64-darwin": "1hlknb7a1dq54hq8mccs5npwmvqfc757pl4w3mcam8923l9xmyfc",
+    "aarch64-darwin": "1yahmqgi7d2dsz9qyskpi2z4jznc72q0k5jlkgyw1b9rydw1xlcn"
   }
 }
